@@ -1,8 +1,8 @@
 lucky-word: mmb
 lucky-kkk: kkk
 
-version: v1
-version-2: v2
+version: v2
+version-2: v1
 
 forversion1: 127.0.0.1
 forversion2: 192.168.99.155
